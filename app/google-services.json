@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676131276357",
+    "project_id": "arid-2f335",
+    "storage_bucket": "arid-2f335.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676131276357:android:5a6a65b69909781ac4852c",
+        "android_client_info": {
+          "package_name": "com.example.aridagrisolutions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcZJrcK6rjIYEONPlSX1TrcBDspqJM_SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
